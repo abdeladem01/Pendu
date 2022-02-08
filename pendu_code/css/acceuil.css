@@ -1,0 +1,96 @@
+body{
+   background: rgba(0, 60, 128, 0.2);
+}
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 15px 15px -15px rgba(0, 0, 0, 0.8);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:250px;
+}
+.titre-img{
+	text-align: center;
+}
+.titre{
+	font-family : fantasy ;
+	text-align: center;
+	height: 35px;
+	text-decoration: underline;
+}
+.centerText {
+  text-align: center;
+}
+
+.bouton a {
+display:inline-block;
+margin:auto;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background:url(../images/bouton-noir.png) no-repeat;
+color:white;
+text-decoration:none;
+}
+.bouton a:hover {
+background:url(../images/bouton-noir-2.png) no-repeat;
+}
+
+
+
+.bouton div {
+display:inline-block;
+margin:auto;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background:url(../images/bouton-noir.png) no-repeat;
+color:white;
+text-decoration:none;
+}
+.bouton input {
+display:inline-block;
+margin:auto;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background:url(../images/bouton-noir.png) no-repeat;
+color:white;
+text-decoration:none;
+}
+.bouton input:hover {
+background:url(../images/bouton-noir-2.png) no-repeat;
+}
+.bouton div:hover {
+background:url(../images/bouton-noir-2.png) no-repeat;
+}
+.bouton{
+	text-align:center;
+}
+
+.explication{
+  padding : 10px ;
+	text-align:center;
+  margin : auto ;
+  margin-bottom : 20px ;
+  width : 500px ;
+  border : 2mm ridge rgba(20, 87, 143, 0.6) ;
+  background-color: rgba(8, 72, 124, 0.6);
+  color : white ;
+}
+
+.OurPic{
+	text-align: center;
+}
+.OurPic img{
+padding: 20px 2px;
+text-align : center ;
+width: 200px;
+}
